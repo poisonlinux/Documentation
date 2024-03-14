@@ -8,7 +8,7 @@
 
 Esta documentação esta disponivel offline no pacote **poison-documentation** e online em: [https://poisonlinux.com.br/handbook.html](https://poisonlinux.com.br/handbook.html)
 
-Caso deseje ajudar nesta documentação e virar um revisor ou escritor acesse: [https://codeberg.org/poison/Documentacao](https://codeberg.org/poison/Documentacao)
+Caso deseje ajudar nesta documentação e virar um revisor ou escritor acesse: [https://github.com/poisonlinux/Documentation](https://github.com/poisonlinux/Documentation)
 
 Este guia é criado em markdown e convertinone.do para html com o script *generate-documentation.sh*.  
 O Código fonte disponivel no repositório do github.
